@@ -1,0 +1,1 @@
+tag @e[tag=trap] remove glowing_trap

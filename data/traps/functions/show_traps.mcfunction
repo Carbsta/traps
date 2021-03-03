@@ -1,0 +1,1 @@
+tag @e[tag=trap] add glowing_trap

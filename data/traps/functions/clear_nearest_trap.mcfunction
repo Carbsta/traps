@@ -1,0 +1,1 @@
+kill @e[tag=trap,limit=1,sort=nearest]

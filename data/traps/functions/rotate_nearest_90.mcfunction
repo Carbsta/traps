@@ -1,0 +1,1 @@
+execute as @e[type=armor_stand, tag=trap, limit=1, sort=nearest] at @s run tp @s ~ ~ ~ ~90 ~

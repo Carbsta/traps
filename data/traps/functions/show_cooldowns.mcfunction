@@ -1,0 +1,1 @@
+scoreboard objectives setdisplay sidebar trap_cool_down
